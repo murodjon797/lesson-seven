@@ -1,0 +1,32 @@
+.js-form{
+    width: 100%;
+    text-align: center;
+}
+.js-input{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(175, 193, 208);
+}
+.js-input-age{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+    background-color: rgb(175, 193, 208);
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(175, 193, 208);
+}
+.js-text{
+    text-align: center;
+    border: solid 2px;
+    width: 240px;
+    height: 40px;
+    margin-left: 820px;
+    margin-top: 35px;
+    border-radius: 10px;
+}
